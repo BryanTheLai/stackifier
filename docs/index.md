@@ -33,6 +33,6 @@ For full documentation, examples, and API reference, see the [README.md](../READ
 
 ## Links
 
-- [GitHub Repository](https://github.com/BryanTheLai/pip-stackifier)
+- [GitHub Repository](https://github.com/BryanTheLai/stackifier)
 - [PyPI Package](https://pypi.org/project/stackifier/)
 - [Installation & Usage](../README.md)

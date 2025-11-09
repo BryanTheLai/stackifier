@@ -1,8 +1,8 @@
 site_name: Stackifier Documentation
 site_description: Lightweight data collection library for AI agents
-site_url: https://bryanthel.github.io/pip-stackifier
-repo_url: https://github.com/BryanTheLai/pip-stackifier
-repo_name: BryanTheLai/pip-stackifier
+site_url: https://bryanthelai.github.io/stackifier
+repo_url: https://github.com/BryanTheLai/stackifier
+repo_name: BryanTheLai/stackifier
 
 theme:
   name: material

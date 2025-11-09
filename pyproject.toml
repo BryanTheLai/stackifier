@@ -39,7 +39,7 @@ all = ["boto3>=1.29.0", "langchain>=0.1.0", "langgraph>=0.1.0", "litellm>=1.0.0"
 test = ["pytest>=7.0.0", "pytest-cov>=4.0.0"]
 
 [project.urls]
-Homepage = "https://github.com/BryanTheLai/pip-stackifier"
-Repository = "https://github.com/BryanTheLai/pip-stackifier"
-Documentation = "https://bryanthel.github.io/pip-stackifier"
-"Bug Tracker" = "https://github.com/BryanTheLai/pip-stackifier/issues"
+Homepage = "https://github.com/BryanTheLai/stackifier"
+Repository = "https://github.com/BryanTheLai/stackifier"
+Documentation = "https://bryanthelai.github.io/stackifier"
+"Bug Tracker" = "https://github.com/BryanTheLai/stackifier/issues"
