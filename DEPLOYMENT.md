@@ -66,5 +66,5 @@ The following secrets should be configured in GitHub repository settings:
 ## URLs After Deployment
 
 - **PyPI Package**: https://pypi.org/project/stackifier/
-- **Documentation**: https://bryanthel.github.io/pip-stackifier
-- **GitHub Repository**: https://github.com/BryanTheLai/pip-stackifier
+- **Documentation**: https://bryanthel.github.io/stackifier
+- **GitHub Repository**: https://github.com/BryanTheLai/stackifier

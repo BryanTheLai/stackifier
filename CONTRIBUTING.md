@@ -6,8 +6,8 @@ Thank you for your interest in contributing to Stackifier! This guide will help 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/BryanTheLai/pip-stackifier.git
-   cd pip-stackifier
+   git clone https://github.com/BryanTheLai/stackifier.git
+   cd stackifier
    ```
 
 2. **Create a virtual environment:**

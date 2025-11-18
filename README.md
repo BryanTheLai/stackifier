@@ -2,8 +2,8 @@
 
 [![PyPI version](https://badge.fury.io/py/stackifier.svg)](https://pypi.org/project/stackifier/)
 [![Python versions](https://img.shields.io/pypi/pyversions/stackifier.svg)](https://pypi.org/project/stackifier/)
-[![License](https://img.shields.io/github/license/BryanTheLai/pip-stackifier.svg)](https://github.com/BryanTheLai/pip-stackifier/blob/main/LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://bryanthel.github.io/pip-stackifier)
+[![License](https://img.shields.io/github/license/BryanTheLai/stackifier.svg)](https://github.com/BryanTheLai/stackifier/blob/main/LICENSE)
+[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://bryanthel.github.io/stackifier)
 [![Downloads](https://pepy.tech/badge/stackifier)](https://pepy.tech/project/stackifier)
 
 **Lightweight data collection library for WhatsApp AI agents** - Log conversations, tool calls, timing, and metrics to JSONL or S3 with OpenAI-compatible schema.
@@ -18,7 +18,7 @@
 - **Rich Metrics**: Capture timing, tokens, costs, tool latencies, graph step info
 - **Simple API**: One `TraceHook`, call `on_event()`, done
 
-[Github](https://github.com/BryanTheLai/pip-stackifier)
+[Github](https://github.com/BryanTheLai/stackifier)
 
 ## Installation
 

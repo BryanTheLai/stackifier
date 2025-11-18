@@ -43,7 +43,7 @@
 
 ## URLs After Deployment
 - **PyPI**: https://pypi.org/project/stackifier/
-- **Docs**: https://bryanthel.github.io/pip-stackifier
-- **GitHub**: https://github.com/BryanTheLai/pip-stackifier
+- **Docs**: https://bryanthel.github.io/stackifier
+- **GitHub**: https://github.com/BryanTheLai/stackifier
 
 Everything is ready to go! 🎉
