@@ -6,6 +6,8 @@
 [![Documentation](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://bryanthel.github.io/stackifier)
 [![Downloads](https://pepy.tech/badge/stackifier)](https://pepy.tech/project/stackifier)
 
+Previously Stack Visualization Tool
+
 **Lightweight data collection library for WhatsApp AI agents** - Log conversations, tool calls, timing, and metrics to JSONL or S3 with OpenAI-compatible schema.
 
 ## Features
