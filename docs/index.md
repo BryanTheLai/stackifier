@@ -20,7 +20,7 @@ trace.flush()
 
 ## Documentation
 
-For full documentation, examples, and API reference, see the [README.md](../README.md) in the project root.
+For full documentation, examples, and API reference, see the [README.md](https://github.com/BryanTheLai/stackifier/blob/main/README.md) in the project root.
 
 ## Features
 
